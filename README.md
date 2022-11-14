@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Danny Sequeira, and I'm a young full Stack Web Developer. I began my career when I was 15 years old. 
+I'm currently working as an idenpendient web Developer, with highly knowledge on JavaScript, ReactJS, NextJS, Python, DJango, Flask, Go, Rust, and PHP, with it's powerfull framework Laravel.
+
+The way that I think and live is really easy, NEVER STOP LEARNING!
 
 <!--
 **Rdani2005/rdani2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
