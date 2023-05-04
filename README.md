@@ -1,3 +1,5 @@
+<img src="./banner.jpg"/>
+
 <h1 align="center">Hi 👋, I'm Danny Sequeira</h1>
 <h3 align="center">A fullstack web developer that loves learning new things</h3>
 
