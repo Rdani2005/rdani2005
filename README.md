@@ -1,7 +1,7 @@
 <img src="./banner.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Danny Sequeira</h1>
-<h3 align="center">A fullstack web developer that loves learning new things</h3>
+<h3 align="center">Highly motivated and skilled programmer with a passion for building innovative software solutions. Experienced in ASP.NET Core, Flutter, Django, and React, with a proven ability to develop efficient and scalable web and mobile applications. Dedicated to continuous learning and staying updated with the latest industry trends. Excellent problem-solving and teamwork skills, with a strong commitment to delivering high-quality results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdani2005&label=Profile%20views&color=0e75b6&style=flat" alt="rdani2005" /> </p>
 
