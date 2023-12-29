@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/rdani2005" target="blank"><img src="https://img.shields.io/twitter/follow/rdani2005?logo=twitter&style=for-the-badge" alt="rdani2005" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rdani2005.works](https://rdani2005.works)
+- 👨‍💻 All of my projects are available at [rdani2005.com](https://rdani2005.com)
 
 - 💬 Ask me about **React, Flutter, DJango and ASP.Net**
 
