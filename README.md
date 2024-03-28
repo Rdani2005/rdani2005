@@ -1,4 +1,4 @@
-<img src="./banner.jpg"/>
+<img src="./banner.jpeg"/>
 
 <h1 align="center">Hi 👋, I'm Danny Sequeira</h1>
 <h3 align="center">Highly motivated and skilled programmer with a passion for building innovative software solutions. Experienced in ASP.NET Core, Flutter, Django, and React, with a proven ability to develop efficient and scalable web and mobile applications. Dedicated to continuous learning and staying updated with the latest industry trends. Excellent problem-solving and teamwork skills, with a strong commitment to delivering high-quality results.</h3>
