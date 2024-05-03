@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Daniel from Costa Rica<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning Neovim<br>- ⚡ In my free time I do volunteering</p>
+<p align="left">I'm Daniel from Costa Rica<br><br>- 🔭 I’m working as Web Developer at @pandanow<br>- 📚 I'm currently learning Remix<br>- ⚡ In my free time I do volunteering</p>
 
 ###
 
